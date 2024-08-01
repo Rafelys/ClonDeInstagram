@@ -1,0 +1,15 @@
+{
+    "users": "/users",
+    "posts": "/posts",
+    "commentsPost": "/commentsPost",
+    "LikesPosts": "/likesPost",
+    "savedPosts": "/savedPost",
+    "userPosts": "/userPosts",
+    "following": "/following",
+    "userFollowing": "/userFollowing",
+    "notification": "/notifications",
+    "storage": {
+        "profile": "/profiles/",
+        "posts": "/posts/"
+    }
+}
